@@ -148,6 +148,22 @@
                  "width":128,
                  "x":512,
                  "y":1440
+                }, 
+                {
+                 "height":57.3333333333337,
+                 "id":11,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"\n\uc870\uc6a9\ud55c \ubc29\n",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":81,
+                 "x":90.1666666666667,
+                 "y":1314
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -191,8 +207,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":40,
- "nextobjectid":9,
+ "nextlayerid":41,
+ "nextobjectid":15,
  "orientation":"orthogonal",
  "properties":[
         {
